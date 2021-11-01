@@ -7,7 +7,7 @@
   },
   "devDependencies": {
     "@1stg/lib-config": "^0.6.1",
-    "core-js": "^3.16.4",
+    "core-js": "^3.19.0",
     "remark-lint-write-good": "^1.2.0"
   },
   "resolutions": {
