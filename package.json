@@ -12,7 +12,7 @@
   },
   "resolutions": {
     "@babel/core": "^7.16.0",
-    "@babel/preset-env": "^7.16.0"
+    "@babel/preset-env": "^7.16.4"
   },
   "commitlint": {
     "extends": [
