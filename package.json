@@ -11,8 +11,8 @@
     "remark-lint-write-good": "^1.2.0"
   },
   "resolutions": {
-    "@babel/core": "^7.24.3",
-    "@babel/preset-env": "^7.24.3"
+    "@babel/core": "^7.24.5",
+    "@babel/preset-env": "^7.24.5"
   },
   "commitlint": {
     "extends": [
